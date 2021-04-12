@@ -1,5 +1,6 @@
 # dice_game
 
-A Flutter Game.
+A Simple Flutter Game.
+<br/>
 <br/>
 <img src="20210413_032257.gif" height="450" >
